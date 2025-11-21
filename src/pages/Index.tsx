@@ -60,7 +60,7 @@ const Index = () => {
           <div className="flex items-center gap-2">
             <Icon name="Zap" className="text-primary" size={32} />
             <span className="text-2xl font-montserrat font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              НаДорогахРФ
+              НаКолёсахРФ
             </span>
           </div>
           <div className="hidden md:flex items-center gap-8">
@@ -189,10 +189,10 @@ const Index = () => {
             <div className="flex items-center gap-2">
               <Icon name="Zap" className="text-primary" size={24} />
               <span className="text-xl font-montserrat font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                НаДорогахРФ
+                НаКолёсахРФ
               </span>
             </div>
-            <p className="text-muted-foreground">© 2024 НаДорогахРФ. Все права защищены.</p>
+            <p className="text-muted-foreground">© 2024 НаКолёсахРФ. Все права защищены.</p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
                 <Icon name="Mail" size={24} />
